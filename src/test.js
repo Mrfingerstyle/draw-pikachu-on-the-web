@@ -1,7 +1,7 @@
 // console.log('test page');
 
 // 模块化
-import string from './css'
+import string from './css.js'
 
 // 对象的初始化方法
 
