@@ -1,12 +1,7 @@
 // console.log('test page');
 
 // 模块化
-// import string from './css'
-/*
-    =======
-import string from './css.js'
->>>>>>> 0b85a40e93314a81c6968bec1572f04f5c7e6f7a
-*/
+// import string from './css.js'
 
 // 对象的初始化方法
 const string = `
