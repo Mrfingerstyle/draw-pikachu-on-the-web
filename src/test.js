@@ -1,7 +1,6 @@
 // console.log('test page');
 
 // 模块化
-<<<<<<< HEAD
 // import string from './css'
 /*
     =======
