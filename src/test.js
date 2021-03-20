@@ -3,9 +3,11 @@
 // 模块化
 <<<<<<< HEAD
 // import string from './css'
-=======
+/*
+    =======
 import string from './css.js'
 >>>>>>> 0b85a40e93314a81c6968bec1572f04f5c7e6f7a
+*/
 
 // 对象的初始化方法
 const string = `
@@ -78,7 +80,7 @@ const string = `
   .eye.left {
     transform: translateX(-100px);
   }
-  
+
   .eye.right {
     transform: translateX(100px);
   }
@@ -112,7 +114,7 @@ const string = `
     top: -20px;
     z-index: 1;
   }
-  
+
   .mouth .up .lips {
     border: 5px solid #000;
     height: 30px;
@@ -125,12 +127,12 @@ const string = `
     margin-left: -50px;
     background: #ffe600;
   }
-  
+
   .mouth .up .lips.left {
     border-radius: 0 0 0 50px;
     transform: rotate(-15deg) translateX(-46px);
   }
-  
+
   .mouth .up .lips.right {
     border-radius: 0 0 50px 0;
     transform: rotate(15deg) translateX(50px);
@@ -146,7 +148,7 @@ const string = `
     bottom: -8px;
     background: #ffe600;
   }
-  
+
   .mouth .up .lips.right::before {
     position: absolute;
     content: "";
@@ -211,7 +213,7 @@ const string = `
     margin-left: -100px;
     border-radius: 100px;
   }
-  
+
   /* 脸颊 */
   .face {
     border: 1px solid #000;
@@ -241,7 +243,7 @@ const string = `
     top: 50%;
     /* display: none; */
   }
-  
+
   .face.left > img {
     transform: rotate(180deg);
     transform-origin: 0 0;
